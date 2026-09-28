@@ -1,0 +1,9 @@
+{
+  "name": "genpark-yield-curve-nelson-siegel-interpolator-skill",
+  "version": "1.0.0",
+  "description": "Nelson-Siegel parametric zero-coupon yield curve modeling engine fitting spot rates, decay factor, level, slope, and curvature components.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
