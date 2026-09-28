@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-yield-curve-nelson-siegel-interpolator-skill"
+version = "1.0.0"
+description = "Nelson-Siegel parametric zero-coupon yield curve modeling engine fitting spot rates, decay factor, level, slope, and curvature components."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
